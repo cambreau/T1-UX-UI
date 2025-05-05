@@ -1,6 +1,6 @@
 # Analyse de devis
 
-Membres de l'équipe : Khoudou Mohamed, El Kouarir Meriem, Souiba Loubna et Breau Camille
+Membres de l'équipe : El Kouarir Meriem, Khoudou Mohamed, Breau Camille et Souiba Loubna
 
 ### Compréhension du mandat
 
@@ -67,7 +67,7 @@ Cependant, certaines zones pourraient être allégées et l’accessibilité ren
 
 #### Million
 
-##### Site:
+##### Site :
 
 https://www.millon.com/nos-services
 
@@ -105,7 +105,6 @@ TM Philatélie est une boutique en ligne dédiée aux amateurs de timbres et à 
 ##### Analyse :
 
   <img style='margin-top:10px' src="./image-etude-concurrence/tm-entete.png"  width="800px">
-  <br>
   <img style='margin-top:10px' src="./image-etude-concurrence/tm-sous-menu.png"  width="800px">
   <img style='margin-top:10px' src="./image-etude-concurrence/tm-contenu.png"  width="800px">
   <img style='margin-top:10px' src="./image-etude-concurrence/tm-contenu-2.png"  width="800px">
@@ -134,11 +133,10 @@ Prévoir différentes maquettes adaptées aux tailles d’écran (responsive des
 
     Le logo sera cliquable et redirigera directement vers la page d’accueil.
 
-  <br>
 
 #### 2.2 - Navigation en quatre parties
 
-##### 2.2.1 - Bouton "Catégories" à coté du logo
+##### 2.2.1 - Bouton "Catégories" à côté du logo
 
       Au survol, un menu s’ouvre avec 5 catégories, chacune contenant un sous-menu.
       Par type de timbre
@@ -236,9 +234,9 @@ Prévoir différentes maquettes adaptées aux tailles d’écran (responsive des
 
     Même catégorie que dans le menu catégorie de l'entête.
 
-##### 3.1.2 Bouton créer une alterte
+##### 3.1.2 Bouton créer une alerte
 
-    Disponible en tout temps et faisable à partir des filtres séléctionnés.
+    Disponible en tout temps et faisable à partir des filtres sélectionnés.
 
 ##### 3.1.3 Carte timbre - Présentation courte
 
